@@ -1,2 +1,2 @@
 # slides
-- [es6 と Functional Programing](http://to4iki.github.io/slides/es6/#1)
+- [es6](http://to4iki.github.io/slides/es6/#1)
